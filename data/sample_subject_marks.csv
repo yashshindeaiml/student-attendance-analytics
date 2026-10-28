@@ -1,0 +1,751 @@
+student_id,subject,marks_obtained,maximum_marks,attendance_percentage,department,semester
+STD-1001,Data Structures,41.3,100.0,61.6,Computer Science,Semester 6
+STD-1001,Algorithms,35.4,100.0,66.3,Computer Science,Semester 6
+STD-1001,Database Systems,31.7,100.0,59.7,Computer Science,Semester 6
+STD-1001,Operating Systems,42.6,100.0,65.6,Computer Science,Semester 6
+STD-1001,Computer Networks,32.2,100.0,61.9,Computer Science,Semester 6
+STD-1002,Thermodynamics,48.3,100.0,51.5,Mechanical Eng.,Semester 4
+STD-1002,Fluid Mechanics,42.8,100.0,56.3,Mechanical Eng.,Semester 4
+STD-1002,Machine Design,55.6,100.0,49.8,Mechanical Eng.,Semester 4
+STD-1002,Heat Transfer,44.6,100.0,61.0,Mechanical Eng.,Semester 4
+STD-1002,Manufacturing Processes,45.3,100.0,60.5,Mechanical Eng.,Semester 4
+STD-1003,Thermodynamics,74.8,100.0,80.5,Mechanical Eng.,Semester 6
+STD-1003,Fluid Mechanics,67.6,100.0,94.1,Mechanical Eng.,Semester 6
+STD-1003,Machine Design,64.2,100.0,87.5,Mechanical Eng.,Semester 6
+STD-1003,Heat Transfer,66.4,100.0,89.9,Mechanical Eng.,Semester 6
+STD-1003,Manufacturing Processes,63.5,100.0,88.3,Mechanical Eng.,Semester 6
+STD-1004,Signals & Systems,37.5,100.0,54.8,Electronics & Comm.,Semester 4
+STD-1004,Digital Electronics,41.4,100.0,56.3,Electronics & Comm.,Semester 4
+STD-1004,Microprocessors,36.0,100.0,55.8,Electronics & Comm.,Semester 4
+STD-1004,Communication Systems,35.0,100.0,46.5,Electronics & Comm.,Semester 4
+STD-1004,VLSI Design,56.8,100.0,50.8,Electronics & Comm.,Semester 4
+STD-1005,Signals & Systems,68.9,100.0,74.0,Electronics & Comm.,Semester 4
+STD-1005,Digital Electronics,63.8,100.0,72.1,Electronics & Comm.,Semester 4
+STD-1005,Microprocessors,48.3,100.0,71.1,Electronics & Comm.,Semester 4
+STD-1005,Communication Systems,61.9,100.0,75.4,Electronics & Comm.,Semester 4
+STD-1005,VLSI Design,61.0,100.0,69.3,Electronics & Comm.,Semester 4
+STD-1006,Structural Analysis,41.5,100.0,52.4,Civil Eng.,Semester 5
+STD-1006,Fluid Mechanics,30.4,100.0,55.4,Civil Eng.,Semester 5
+STD-1006,Geotechnical Eng.,30.3,100.0,57.9,Civil Eng.,Semester 5
+STD-1006,Surveying,41.6,100.0,53.0,Civil Eng.,Semester 5
+STD-1006,Concrete Technology,39.0,100.0,51.7,Civil Eng.,Semester 5
+STD-1007,Data Structures,67.6,100.0,28.5,Computer Science,Semester 3
+STD-1007,Algorithms,66.4,100.0,28.9,Computer Science,Semester 3
+STD-1007,Database Systems,52.5,100.0,33.5,Computer Science,Semester 3
+STD-1007,Operating Systems,36.0,100.0,33.1,Computer Science,Semester 3
+STD-1007,Computer Networks,58.9,100.0,23.8,Computer Science,Semester 3
+STD-1008,Thermodynamics,28.0,100.0,26.9,Mechanical Eng.,Semester 5
+STD-1008,Fluid Mechanics,26.9,100.0,35.8,Mechanical Eng.,Semester 5
+STD-1008,Machine Design,38.4,100.0,34.4,Mechanical Eng.,Semester 5
+STD-1008,Heat Transfer,37.8,100.0,34.7,Mechanical Eng.,Semester 5
+STD-1008,Manufacturing Processes,39.2,100.0,23.3,Mechanical Eng.,Semester 5
+STD-1009,Web Technologies,48.1,100.0,44.1,Information Technology,Semester 5
+STD-1009,Cloud Computing,66.6,100.0,48.4,Information Technology,Semester 5
+STD-1009,Software Engineering,46.6,100.0,56.0,Information Technology,Semester 5
+STD-1009,Database Systems,45.7,100.0,49.0,Information Technology,Semester 5
+STD-1009,Information Security,51.9,100.0,50.1,Information Technology,Semester 5
+STD-1010,Data Structures,58.8,100.0,71.4,Computer Science,Semester 6
+STD-1010,Algorithms,52.8,100.0,73.5,Computer Science,Semester 6
+STD-1010,Database Systems,68.9,100.0,68.9,Computer Science,Semester 6
+STD-1010,Operating Systems,55.4,100.0,72.7,Computer Science,Semester 6
+STD-1010,Computer Networks,59.9,100.0,74.4,Computer Science,Semester 6
+STD-1011,Signals & Systems,54.6,100.0,81.4,Electronics & Comm.,Semester 6
+STD-1011,Digital Electronics,47.7,100.0,77.0,Electronics & Comm.,Semester 6
+STD-1011,Microprocessors,59.8,100.0,70.7,Electronics & Comm.,Semester 6
+STD-1011,Communication Systems,53.7,100.0,73.0,Electronics & Comm.,Semester 6
+STD-1011,VLSI Design,62.2,100.0,68.2,Electronics & Comm.,Semester 6
+STD-1012,Structural Analysis,53.9,100.0,53.1,Civil Eng.,Semester 5
+STD-1012,Fluid Mechanics,56.9,100.0,59.2,Civil Eng.,Semester 5
+STD-1012,Geotechnical Eng.,55.6,100.0,60.8,Civil Eng.,Semester 5
+STD-1012,Surveying,53.4,100.0,60.2,Civil Eng.,Semester 5
+STD-1012,Concrete Technology,61.2,100.0,65.4,Civil Eng.,Semester 5
+STD-1013,Thermodynamics,38.3,100.0,63.6,Mechanical Eng.,Semester 4
+STD-1013,Fluid Mechanics,43.1,100.0,66.8,Mechanical Eng.,Semester 4
+STD-1013,Machine Design,30.5,100.0,73.2,Mechanical Eng.,Semester 4
+STD-1013,Heat Transfer,36.9,100.0,66.7,Mechanical Eng.,Semester 4
+STD-1013,Manufacturing Processes,42.9,100.0,69.9,Mechanical Eng.,Semester 4
+STD-1014,Thermodynamics,47.2,100.0,71.9,Mechanical Eng.,Semester 4
+STD-1014,Fluid Mechanics,59.5,100.0,74.0,Mechanical Eng.,Semester 4
+STD-1014,Machine Design,54.8,100.0,71.8,Mechanical Eng.,Semester 4
+STD-1014,Heat Transfer,34.3,100.0,76.6,Mechanical Eng.,Semester 4
+STD-1014,Manufacturing Processes,51.2,100.0,67.3,Mechanical Eng.,Semester 4
+STD-1015,Thermodynamics,94.9,100.0,87.6,Mechanical Eng.,Semester 4
+STD-1015,Fluid Mechanics,95.1,100.0,94.4,Mechanical Eng.,Semester 4
+STD-1015,Machine Design,97.0,100.0,84.9,Mechanical Eng.,Semester 4
+STD-1015,Heat Transfer,93.7,100.0,91.1,Mechanical Eng.,Semester 4
+STD-1015,Manufacturing Processes,89.6,100.0,86.9,Mechanical Eng.,Semester 4
+STD-1016,Thermodynamics,45.5,100.0,64.1,Mechanical Eng.,Semester 6
+STD-1016,Fluid Mechanics,62.2,100.0,64.8,Mechanical Eng.,Semester 6
+STD-1016,Machine Design,43.1,100.0,67.2,Mechanical Eng.,Semester 6
+STD-1016,Heat Transfer,57.3,100.0,55.4,Mechanical Eng.,Semester 6
+STD-1016,Manufacturing Processes,53.7,100.0,54.7,Mechanical Eng.,Semester 6
+STD-1017,Signals & Systems,47.3,100.0,68.3,Electronics & Comm.,Semester 4
+STD-1017,Digital Electronics,38.4,100.0,62.0,Electronics & Comm.,Semester 4
+STD-1017,Microprocessors,31.2,100.0,70.8,Electronics & Comm.,Semester 4
+STD-1017,Communication Systems,34.9,100.0,77.9,Electronics & Comm.,Semester 4
+STD-1017,VLSI Design,42.7,100.0,67.6,Electronics & Comm.,Semester 4
+STD-1018,Data Structures,26.0,100.0,54.4,Computer Science,Semester 3
+STD-1018,Algorithms,39.3,100.0,56.9,Computer Science,Semester 3
+STD-1018,Database Systems,35.9,100.0,48.1,Computer Science,Semester 3
+STD-1018,Operating Systems,33.0,100.0,52.6,Computer Science,Semester 3
+STD-1018,Computer Networks,30.1,100.0,46.3,Computer Science,Semester 3
+STD-1019,Structural Analysis,54.1,100.0,75.7,Civil Eng.,Semester 4
+STD-1019,Fluid Mechanics,53.8,100.0,82.8,Civil Eng.,Semester 4
+STD-1019,Geotechnical Eng.,54.2,100.0,79.2,Civil Eng.,Semester 4
+STD-1019,Surveying,66.6,100.0,79.5,Civil Eng.,Semester 4
+STD-1019,Concrete Technology,56.8,100.0,83.1,Civil Eng.,Semester 4
+STD-1020,Signals & Systems,38.8,100.0,83.5,Electronics & Comm.,Semester 3
+STD-1020,Digital Electronics,46.5,100.0,95.9,Electronics & Comm.,Semester 3
+STD-1020,Microprocessors,49.2,100.0,100.0,Electronics & Comm.,Semester 3
+STD-1020,Communication Systems,40.6,100.0,95.7,Electronics & Comm.,Semester 3
+STD-1020,VLSI Design,46.1,100.0,94.9,Electronics & Comm.,Semester 3
+STD-1021,Signals & Systems,52.0,100.0,88.5,Electronics & Comm.,Semester 3
+STD-1021,Digital Electronics,65.9,100.0,87.6,Electronics & Comm.,Semester 3
+STD-1021,Microprocessors,64.9,100.0,98.5,Electronics & Comm.,Semester 3
+STD-1021,Communication Systems,59.9,100.0,82.3,Electronics & Comm.,Semester 3
+STD-1021,VLSI Design,61.9,100.0,84.2,Electronics & Comm.,Semester 3
+STD-1022,Web Technologies,68.0,100.0,77.4,Information Technology,Semester 3
+STD-1022,Cloud Computing,88.2,100.0,77.3,Information Technology,Semester 3
+STD-1022,Software Engineering,86.4,100.0,70.6,Information Technology,Semester 3
+STD-1022,Database Systems,86.3,100.0,70.7,Information Technology,Semester 3
+STD-1022,Information Security,65.7,100.0,76.7,Information Technology,Semester 3
+STD-1023,Data Structures,70.8,100.0,78.0,Computer Science,Semester 6
+STD-1023,Algorithms,59.6,100.0,80.9,Computer Science,Semester 6
+STD-1023,Database Systems,55.6,100.0,81.2,Computer Science,Semester 6
+STD-1023,Operating Systems,54.9,100.0,72.1,Computer Science,Semester 6
+STD-1023,Computer Networks,73.6,100.0,72.2,Computer Science,Semester 6
+STD-1024,Structural Analysis,76.0,100.0,63.4,Civil Eng.,Semester 5
+STD-1024,Fluid Mechanics,80.9,100.0,62.0,Civil Eng.,Semester 5
+STD-1024,Geotechnical Eng.,81.4,100.0,60.8,Civil Eng.,Semester 5
+STD-1024,Surveying,78.9,100.0,59.1,Civil Eng.,Semester 5
+STD-1024,Concrete Technology,68.0,100.0,59.7,Civil Eng.,Semester 5
+STD-1025,Thermodynamics,52.9,100.0,75.3,Mechanical Eng.,Semester 5
+STD-1025,Fluid Mechanics,38.3,100.0,72.7,Mechanical Eng.,Semester 5
+STD-1025,Machine Design,42.8,100.0,74.4,Mechanical Eng.,Semester 5
+STD-1025,Heat Transfer,41.1,100.0,75.3,Mechanical Eng.,Semester 5
+STD-1025,Manufacturing Processes,45.0,100.0,81.6,Mechanical Eng.,Semester 5
+STD-1026,Thermodynamics,56.9,100.0,71.1,Mechanical Eng.,Semester 4
+STD-1026,Fluid Mechanics,57.0,100.0,66.9,Mechanical Eng.,Semester 4
+STD-1026,Machine Design,55.8,100.0,61.6,Mechanical Eng.,Semester 4
+STD-1026,Heat Transfer,45.7,100.0,64.9,Mechanical Eng.,Semester 4
+STD-1026,Manufacturing Processes,63.8,100.0,63.0,Mechanical Eng.,Semester 4
+STD-1027,Signals & Systems,59.6,100.0,83.1,Electronics & Comm.,Semester 5
+STD-1027,Digital Electronics,61.5,100.0,81.8,Electronics & Comm.,Semester 5
+STD-1027,Microprocessors,53.3,100.0,83.8,Electronics & Comm.,Semester 5
+STD-1027,Communication Systems,43.8,100.0,82.3,Electronics & Comm.,Semester 5
+STD-1027,VLSI Design,58.8,100.0,89.6,Electronics & Comm.,Semester 5
+STD-1028,Structural Analysis,43.5,100.0,69.2,Civil Eng.,Semester 3
+STD-1028,Fluid Mechanics,46.6,100.0,71.7,Civil Eng.,Semester 3
+STD-1028,Geotechnical Eng.,52.9,100.0,71.8,Civil Eng.,Semester 3
+STD-1028,Surveying,50.2,100.0,62.5,Civil Eng.,Semester 3
+STD-1028,Concrete Technology,46.6,100.0,73.9,Civil Eng.,Semester 3
+STD-1029,Signals & Systems,81.7,100.0,86.8,Electronics & Comm.,Semester 6
+STD-1029,Digital Electronics,82.8,100.0,93.0,Electronics & Comm.,Semester 6
+STD-1029,Microprocessors,84.6,100.0,85.2,Electronics & Comm.,Semester 6
+STD-1029,Communication Systems,83.1,100.0,90.1,Electronics & Comm.,Semester 6
+STD-1029,VLSI Design,80.9,100.0,88.4,Electronics & Comm.,Semester 6
+STD-1030,Signals & Systems,60.7,100.0,92.6,Electronics & Comm.,Semester 5
+STD-1030,Digital Electronics,65.6,100.0,89.7,Electronics & Comm.,Semester 5
+STD-1030,Microprocessors,62.3,100.0,92.3,Electronics & Comm.,Semester 5
+STD-1030,Communication Systems,63.5,100.0,92.1,Electronics & Comm.,Semester 5
+STD-1030,VLSI Design,60.0,100.0,92.6,Electronics & Comm.,Semester 5
+STD-1031,Signals & Systems,59.9,100.0,61.6,Electronics & Comm.,Semester 6
+STD-1031,Digital Electronics,37.6,100.0,58.7,Electronics & Comm.,Semester 6
+STD-1031,Microprocessors,53.1,100.0,66.1,Electronics & Comm.,Semester 6
+STD-1031,Communication Systems,49.8,100.0,64.7,Electronics & Comm.,Semester 6
+STD-1031,VLSI Design,62.9,100.0,63.7,Electronics & Comm.,Semester 6
+STD-1032,Web Technologies,81.8,100.0,80.2,Information Technology,Semester 3
+STD-1032,Cloud Computing,75.0,100.0,72.1,Information Technology,Semester 3
+STD-1032,Software Engineering,65.5,100.0,69.6,Information Technology,Semester 3
+STD-1032,Database Systems,63.0,100.0,80.3,Information Technology,Semester 3
+STD-1032,Information Security,71.0,100.0,76.5,Information Technology,Semester 3
+STD-1033,Data Structures,68.8,100.0,71.4,Computer Science,Semester 4
+STD-1033,Algorithms,44.2,100.0,68.8,Computer Science,Semester 4
+STD-1033,Database Systems,53.3,100.0,75.6,Computer Science,Semester 4
+STD-1033,Operating Systems,63.4,100.0,75.3,Computer Science,Semester 4
+STD-1033,Computer Networks,59.2,100.0,75.4,Computer Science,Semester 4
+STD-1034,Signals & Systems,63.7,100.0,75.7,Electronics & Comm.,Semester 5
+STD-1034,Digital Electronics,70.6,100.0,76.7,Electronics & Comm.,Semester 5
+STD-1034,Microprocessors,69.4,100.0,74.6,Electronics & Comm.,Semester 5
+STD-1034,Communication Systems,58.0,100.0,83.8,Electronics & Comm.,Semester 5
+STD-1034,VLSI Design,61.5,100.0,74.8,Electronics & Comm.,Semester 5
+STD-1035,Structural Analysis,73.5,100.0,90.1,Civil Eng.,Semester 4
+STD-1035,Fluid Mechanics,81.4,100.0,87.7,Civil Eng.,Semester 4
+STD-1035,Geotechnical Eng.,73.5,100.0,85.0,Civil Eng.,Semester 4
+STD-1035,Surveying,67.7,100.0,93.2,Civil Eng.,Semester 4
+STD-1035,Concrete Technology,85.6,100.0,88.8,Civil Eng.,Semester 4
+STD-1036,Data Structures,58.7,100.0,79.4,Computer Science,Semester 4
+STD-1036,Algorithms,57.7,100.0,88.6,Computer Science,Semester 4
+STD-1036,Database Systems,65.3,100.0,82.3,Computer Science,Semester 4
+STD-1036,Operating Systems,58.7,100.0,80.7,Computer Science,Semester 4
+STD-1036,Computer Networks,56.9,100.0,80.6,Computer Science,Semester 4
+STD-1037,Structural Analysis,67.7,100.0,89.2,Civil Eng.,Semester 3
+STD-1037,Fluid Mechanics,80.3,100.0,86.3,Civil Eng.,Semester 3
+STD-1037,Geotechnical Eng.,62.2,100.0,88.5,Civil Eng.,Semester 3
+STD-1037,Surveying,78.9,100.0,81.9,Civil Eng.,Semester 3
+STD-1037,Concrete Technology,67.8,100.0,88.9,Civil Eng.,Semester 3
+STD-1038,Structural Analysis,79.3,100.0,92.1,Civil Eng.,Semester 4
+STD-1038,Fluid Mechanics,76.5,100.0,94.8,Civil Eng.,Semester 4
+STD-1038,Geotechnical Eng.,82.5,100.0,95.8,Civil Eng.,Semester 4
+STD-1038,Surveying,83.0,100.0,93.4,Civil Eng.,Semester 4
+STD-1038,Concrete Technology,87.6,100.0,93.7,Civil Eng.,Semester 4
+STD-1039,Web Technologies,60.6,100.0,65.6,Information Technology,Semester 3
+STD-1039,Cloud Computing,53.4,100.0,57.4,Information Technology,Semester 3
+STD-1039,Software Engineering,49.9,100.0,70.1,Information Technology,Semester 3
+STD-1039,Database Systems,54.3,100.0,60.7,Information Technology,Semester 3
+STD-1039,Information Security,64.9,100.0,62.5,Information Technology,Semester 3
+STD-1040,Thermodynamics,42.7,100.0,57.3,Mechanical Eng.,Semester 4
+STD-1040,Fluid Mechanics,54.1,100.0,48.6,Mechanical Eng.,Semester 4
+STD-1040,Machine Design,57.4,100.0,55.6,Mechanical Eng.,Semester 4
+STD-1040,Heat Transfer,43.7,100.0,56.8,Mechanical Eng.,Semester 4
+STD-1040,Manufacturing Processes,43.6,100.0,46.8,Mechanical Eng.,Semester 4
+STD-1041,Data Structures,59.3,100.0,65.3,Computer Science,Semester 5
+STD-1041,Algorithms,52.3,100.0,66.5,Computer Science,Semester 5
+STD-1041,Database Systems,49.5,100.0,65.7,Computer Science,Semester 5
+STD-1041,Operating Systems,44.4,100.0,64.9,Computer Science,Semester 5
+STD-1041,Computer Networks,59.5,100.0,68.7,Computer Science,Semester 5
+STD-1042,Thermodynamics,74.7,100.0,100.0,Mechanical Eng.,Semester 5
+STD-1042,Fluid Mechanics,62.6,100.0,91.7,Mechanical Eng.,Semester 5
+STD-1042,Machine Design,69.2,100.0,91.0,Mechanical Eng.,Semester 5
+STD-1042,Heat Transfer,62.6,100.0,100.0,Mechanical Eng.,Semester 5
+STD-1042,Manufacturing Processes,67.4,100.0,100.0,Mechanical Eng.,Semester 5
+STD-1043,Thermodynamics,53.3,100.0,59.9,Mechanical Eng.,Semester 5
+STD-1043,Fluid Mechanics,57.5,100.0,62.3,Mechanical Eng.,Semester 5
+STD-1043,Machine Design,67.3,100.0,52.8,Mechanical Eng.,Semester 5
+STD-1043,Heat Transfer,62.1,100.0,67.0,Mechanical Eng.,Semester 5
+STD-1043,Manufacturing Processes,50.9,100.0,62.4,Mechanical Eng.,Semester 5
+STD-1044,Web Technologies,56.7,100.0,76.4,Information Technology,Semester 4
+STD-1044,Cloud Computing,56.9,100.0,63.6,Information Technology,Semester 4
+STD-1044,Software Engineering,55.6,100.0,68.6,Information Technology,Semester 4
+STD-1044,Database Systems,71.9,100.0,68.6,Information Technology,Semester 4
+STD-1044,Information Security,66.2,100.0,63.7,Information Technology,Semester 4
+STD-1045,Data Structures,66.5,100.0,77.9,Computer Science,Semester 6
+STD-1045,Algorithms,59.9,100.0,75.3,Computer Science,Semester 6
+STD-1045,Database Systems,68.9,100.0,71.4,Computer Science,Semester 6
+STD-1045,Operating Systems,69.0,100.0,79.8,Computer Science,Semester 6
+STD-1045,Computer Networks,57.8,100.0,75.0,Computer Science,Semester 6
+STD-1046,Structural Analysis,66.8,100.0,66.5,Civil Eng.,Semester 3
+STD-1046,Fluid Mechanics,63.4,100.0,73.4,Civil Eng.,Semester 3
+STD-1046,Geotechnical Eng.,61.3,100.0,70.3,Civil Eng.,Semester 3
+STD-1046,Surveying,62.6,100.0,65.0,Civil Eng.,Semester 3
+STD-1046,Concrete Technology,67.7,100.0,63.5,Civil Eng.,Semester 3
+STD-1047,Signals & Systems,45.0,100.0,72.5,Electronics & Comm.,Semester 4
+STD-1047,Digital Electronics,41.5,100.0,66.6,Electronics & Comm.,Semester 4
+STD-1047,Microprocessors,35.0,100.0,67.5,Electronics & Comm.,Semester 4
+STD-1047,Communication Systems,31.7,100.0,66.9,Electronics & Comm.,Semester 4
+STD-1047,VLSI Design,50.8,100.0,67.3,Electronics & Comm.,Semester 4
+STD-1048,Structural Analysis,56.0,100.0,93.8,Civil Eng.,Semester 3
+STD-1048,Fluid Mechanics,62.9,100.0,90.5,Civil Eng.,Semester 3
+STD-1048,Geotechnical Eng.,57.5,100.0,96.5,Civil Eng.,Semester 3
+STD-1048,Surveying,65.7,100.0,95.1,Civil Eng.,Semester 3
+STD-1048,Concrete Technology,49.9,100.0,94.7,Civil Eng.,Semester 3
+STD-1049,Thermodynamics,16.6,100.0,32.0,Mechanical Eng.,Semester 4
+STD-1049,Fluid Mechanics,15.0,100.0,28.9,Mechanical Eng.,Semester 4
+STD-1049,Machine Design,23.1,100.0,32.5,Mechanical Eng.,Semester 4
+STD-1049,Heat Transfer,25.7,100.0,32.8,Mechanical Eng.,Semester 4
+STD-1049,Manufacturing Processes,15.0,100.0,32.0,Mechanical Eng.,Semester 4
+STD-1050,Thermodynamics,61.7,100.0,54.7,Mechanical Eng.,Semester 6
+STD-1050,Fluid Mechanics,61.3,100.0,49.8,Mechanical Eng.,Semester 6
+STD-1050,Machine Design,59.6,100.0,54.6,Mechanical Eng.,Semester 6
+STD-1050,Heat Transfer,75.1,100.0,53.2,Mechanical Eng.,Semester 6
+STD-1050,Manufacturing Processes,63.5,100.0,50.0,Mechanical Eng.,Semester 6
+STD-1051,Thermodynamics,46.0,100.0,69.1,Mechanical Eng.,Semester 4
+STD-1051,Fluid Mechanics,40.8,100.0,71.8,Mechanical Eng.,Semester 4
+STD-1051,Machine Design,43.8,100.0,64.7,Mechanical Eng.,Semester 4
+STD-1051,Heat Transfer,57.3,100.0,66.2,Mechanical Eng.,Semester 4
+STD-1051,Manufacturing Processes,42.2,100.0,77.1,Mechanical Eng.,Semester 4
+STD-1052,Data Structures,41.5,100.0,89.9,Computer Science,Semester 6
+STD-1052,Algorithms,30.2,100.0,87.9,Computer Science,Semester 6
+STD-1052,Database Systems,25.0,100.0,86.7,Computer Science,Semester 6
+STD-1052,Operating Systems,39.9,100.0,87.4,Computer Science,Semester 6
+STD-1052,Computer Networks,38.6,100.0,86.6,Computer Science,Semester 6
+STD-1053,Web Technologies,26.4,100.0,48.8,Information Technology,Semester 4
+STD-1053,Cloud Computing,26.9,100.0,52.4,Information Technology,Semester 4
+STD-1053,Software Engineering,37.1,100.0,45.5,Information Technology,Semester 4
+STD-1053,Database Systems,50.8,100.0,54.7,Information Technology,Semester 4
+STD-1053,Information Security,33.0,100.0,48.7,Information Technology,Semester 4
+STD-1054,Signals & Systems,48.4,100.0,84.6,Electronics & Comm.,Semester 5
+STD-1054,Digital Electronics,38.0,100.0,81.2,Electronics & Comm.,Semester 5
+STD-1054,Microprocessors,36.7,100.0,89.0,Electronics & Comm.,Semester 5
+STD-1054,Communication Systems,41.5,100.0,87.2,Electronics & Comm.,Semester 5
+STD-1054,VLSI Design,34.0,100.0,79.7,Electronics & Comm.,Semester 5
+STD-1055,Signals & Systems,86.8,100.0,55.9,Electronics & Comm.,Semester 4
+STD-1055,Digital Electronics,73.7,100.0,61.1,Electronics & Comm.,Semester 4
+STD-1055,Microprocessors,71.0,100.0,52.0,Electronics & Comm.,Semester 4
+STD-1055,Communication Systems,67.6,100.0,55.9,Electronics & Comm.,Semester 4
+STD-1055,VLSI Design,67.2,100.0,51.0,Electronics & Comm.,Semester 4
+STD-1056,Data Structures,84.8,100.0,81.5,Computer Science,Semester 4
+STD-1056,Algorithms,68.0,100.0,82.1,Computer Science,Semester 4
+STD-1056,Database Systems,68.9,100.0,84.7,Computer Science,Semester 4
+STD-1056,Operating Systems,75.5,100.0,73.4,Computer Science,Semester 4
+STD-1056,Computer Networks,75.2,100.0,77.6,Computer Science,Semester 4
+STD-1057,Signals & Systems,48.6,100.0,65.1,Electronics & Comm.,Semester 6
+STD-1057,Digital Electronics,40.4,100.0,70.9,Electronics & Comm.,Semester 6
+STD-1057,Microprocessors,54.1,100.0,62.9,Electronics & Comm.,Semester 6
+STD-1057,Communication Systems,44.1,100.0,61.1,Electronics & Comm.,Semester 6
+STD-1057,VLSI Design,37.0,100.0,65.0,Electronics & Comm.,Semester 6
+STD-1058,Data Structures,54.8,100.0,55.4,Computer Science,Semester 6
+STD-1058,Algorithms,51.5,100.0,59.9,Computer Science,Semester 6
+STD-1058,Database Systems,49.4,100.0,58.4,Computer Science,Semester 6
+STD-1058,Operating Systems,66.0,100.0,56.4,Computer Science,Semester 6
+STD-1058,Computer Networks,59.2,100.0,60.3,Computer Science,Semester 6
+STD-1059,Thermodynamics,53.3,100.0,80.2,Mechanical Eng.,Semester 4
+STD-1059,Fluid Mechanics,43.1,100.0,83.3,Mechanical Eng.,Semester 4
+STD-1059,Machine Design,40.7,100.0,84.6,Mechanical Eng.,Semester 4
+STD-1059,Heat Transfer,55.5,100.0,83.1,Mechanical Eng.,Semester 4
+STD-1059,Manufacturing Processes,64.5,100.0,89.9,Mechanical Eng.,Semester 4
+STD-1060,Thermodynamics,45.5,100.0,80.0,Mechanical Eng.,Semester 6
+STD-1060,Fluid Mechanics,45.3,100.0,87.0,Mechanical Eng.,Semester 6
+STD-1060,Machine Design,29.5,100.0,83.4,Mechanical Eng.,Semester 6
+STD-1060,Heat Transfer,28.0,100.0,81.3,Mechanical Eng.,Semester 6
+STD-1060,Manufacturing Processes,47.0,100.0,83.4,Mechanical Eng.,Semester 6
+STD-1061,Structural Analysis,60.7,100.0,81.3,Civil Eng.,Semester 4
+STD-1061,Fluid Mechanics,65.2,100.0,86.0,Civil Eng.,Semester 4
+STD-1061,Geotechnical Eng.,65.1,100.0,81.4,Civil Eng.,Semester 4
+STD-1061,Surveying,65.9,100.0,83.7,Civil Eng.,Semester 4
+STD-1061,Concrete Technology,65.2,100.0,83.1,Civil Eng.,Semester 4
+STD-1062,Thermodynamics,68.9,100.0,94.3,Mechanical Eng.,Semester 5
+STD-1062,Fluid Mechanics,62.6,100.0,95.2,Mechanical Eng.,Semester 5
+STD-1062,Machine Design,62.5,100.0,89.6,Mechanical Eng.,Semester 5
+STD-1062,Heat Transfer,60.1,100.0,89.6,Mechanical Eng.,Semester 5
+STD-1062,Manufacturing Processes,67.2,100.0,97.9,Mechanical Eng.,Semester 5
+STD-1063,Web Technologies,20.3,100.0,62.5,Information Technology,Semester 6
+STD-1063,Cloud Computing,25.1,100.0,69.9,Information Technology,Semester 6
+STD-1063,Software Engineering,23.3,100.0,60.5,Information Technology,Semester 6
+STD-1063,Database Systems,26.9,100.0,65.4,Information Technology,Semester 6
+STD-1063,Information Security,26.3,100.0,62.5,Information Technology,Semester 6
+STD-1064,Structural Analysis,43.8,100.0,72.6,Civil Eng.,Semester 4
+STD-1064,Fluid Mechanics,37.2,100.0,65.6,Civil Eng.,Semester 4
+STD-1064,Geotechnical Eng.,32.4,100.0,74.8,Civil Eng.,Semester 4
+STD-1064,Surveying,53.5,100.0,73.8,Civil Eng.,Semester 4
+STD-1064,Concrete Technology,43.9,100.0,69.2,Civil Eng.,Semester 4
+STD-1065,Signals & Systems,25.9,100.0,66.4,Electronics & Comm.,Semester 5
+STD-1065,Digital Electronics,19.0,100.0,63.2,Electronics & Comm.,Semester 5
+STD-1065,Microprocessors,28.1,100.0,60.8,Electronics & Comm.,Semester 5
+STD-1065,Communication Systems,25.4,100.0,68.5,Electronics & Comm.,Semester 5
+STD-1065,VLSI Design,31.9,100.0,66.2,Electronics & Comm.,Semester 5
+STD-1066,Web Technologies,59.1,100.0,89.5,Information Technology,Semester 4
+STD-1066,Cloud Computing,54.0,100.0,82.2,Information Technology,Semester 4
+STD-1066,Software Engineering,66.1,100.0,85.6,Information Technology,Semester 4
+STD-1066,Database Systems,64.3,100.0,84.0,Information Technology,Semester 4
+STD-1066,Information Security,68.5,100.0,76.0,Information Technology,Semester 4
+STD-1067,Structural Analysis,53.9,100.0,77.3,Civil Eng.,Semester 3
+STD-1067,Fluid Mechanics,61.6,100.0,72.1,Civil Eng.,Semester 3
+STD-1067,Geotechnical Eng.,59.8,100.0,74.9,Civil Eng.,Semester 3
+STD-1067,Surveying,58.6,100.0,79.1,Civil Eng.,Semester 3
+STD-1067,Concrete Technology,62.3,100.0,78.3,Civil Eng.,Semester 3
+STD-1068,Web Technologies,84.9,100.0,88.8,Information Technology,Semester 3
+STD-1068,Cloud Computing,68.0,100.0,84.8,Information Technology,Semester 3
+STD-1068,Software Engineering,81.9,100.0,79.3,Information Technology,Semester 3
+STD-1068,Database Systems,80.3,100.0,86.5,Information Technology,Semester 3
+STD-1068,Information Security,93.5,100.0,84.9,Information Technology,Semester 3
+STD-1069,Data Structures,57.7,100.0,56.4,Computer Science,Semester 4
+STD-1069,Algorithms,56.1,100.0,59.5,Computer Science,Semester 4
+STD-1069,Database Systems,56.4,100.0,56.5,Computer Science,Semester 4
+STD-1069,Operating Systems,60.2,100.0,58.0,Computer Science,Semester 4
+STD-1069,Computer Networks,61.2,100.0,50.9,Computer Science,Semester 4
+STD-1070,Signals & Systems,78.3,100.0,96.4,Electronics & Comm.,Semester 6
+STD-1070,Digital Electronics,70.9,100.0,94.2,Electronics & Comm.,Semester 6
+STD-1070,Microprocessors,79.3,100.0,87.3,Electronics & Comm.,Semester 6
+STD-1070,Communication Systems,76.9,100.0,84.6,Electronics & Comm.,Semester 6
+STD-1070,VLSI Design,81.2,100.0,85.8,Electronics & Comm.,Semester 6
+STD-1071,Thermodynamics,54.6,100.0,90.3,Mechanical Eng.,Semester 3
+STD-1071,Fluid Mechanics,46.4,100.0,96.5,Mechanical Eng.,Semester 3
+STD-1071,Machine Design,52.5,100.0,93.6,Mechanical Eng.,Semester 3
+STD-1071,Heat Transfer,42.6,100.0,89.5,Mechanical Eng.,Semester 3
+STD-1071,Manufacturing Processes,50.5,100.0,92.4,Mechanical Eng.,Semester 3
+STD-1072,Data Structures,48.6,100.0,30.2,Computer Science,Semester 4
+STD-1072,Algorithms,55.6,100.0,36.3,Computer Science,Semester 4
+STD-1072,Database Systems,58.3,100.0,33.5,Computer Science,Semester 4
+STD-1072,Operating Systems,38.2,100.0,33.5,Computer Science,Semester 4
+STD-1072,Computer Networks,50.7,100.0,34.1,Computer Science,Semester 4
+STD-1073,Signals & Systems,39.6,100.0,31.3,Electronics & Comm.,Semester 5
+STD-1073,Digital Electronics,42.1,100.0,29.2,Electronics & Comm.,Semester 5
+STD-1073,Microprocessors,27.3,100.0,28.8,Electronics & Comm.,Semester 5
+STD-1073,Communication Systems,24.9,100.0,32.1,Electronics & Comm.,Semester 5
+STD-1073,VLSI Design,37.2,100.0,24.8,Electronics & Comm.,Semester 5
+STD-1074,Data Structures,51.2,100.0,87.5,Computer Science,Semester 3
+STD-1074,Algorithms,57.3,100.0,91.8,Computer Science,Semester 3
+STD-1074,Database Systems,42.9,100.0,88.4,Computer Science,Semester 3
+STD-1074,Operating Systems,64.1,100.0,100.0,Computer Science,Semester 3
+STD-1074,Computer Networks,59.5,100.0,99.2,Computer Science,Semester 3
+STD-1075,Thermodynamics,63.5,100.0,75.3,Mechanical Eng.,Semester 5
+STD-1075,Fluid Mechanics,66.2,100.0,70.5,Mechanical Eng.,Semester 5
+STD-1075,Machine Design,71.5,100.0,73.8,Mechanical Eng.,Semester 5
+STD-1075,Heat Transfer,77.1,100.0,73.9,Mechanical Eng.,Semester 5
+STD-1075,Manufacturing Processes,71.0,100.0,69.8,Mechanical Eng.,Semester 5
+STD-1076,Signals & Systems,41.2,100.0,70.5,Electronics & Comm.,Semester 4
+STD-1076,Digital Electronics,59.0,100.0,65.2,Electronics & Comm.,Semester 4
+STD-1076,Microprocessors,49.0,100.0,70.3,Electronics & Comm.,Semester 4
+STD-1076,Communication Systems,59.9,100.0,66.3,Electronics & Comm.,Semester 4
+STD-1076,VLSI Design,55.1,100.0,68.1,Electronics & Comm.,Semester 4
+STD-1077,Web Technologies,55.0,100.0,33.5,Information Technology,Semester 6
+STD-1077,Cloud Computing,44.0,100.0,39.4,Information Technology,Semester 6
+STD-1077,Software Engineering,72.5,100.0,31.6,Information Technology,Semester 6
+STD-1077,Database Systems,62.3,100.0,30.9,Information Technology,Semester 6
+STD-1077,Information Security,62.1,100.0,35.6,Information Technology,Semester 6
+STD-1078,Web Technologies,68.4,100.0,56.8,Information Technology,Semester 5
+STD-1078,Cloud Computing,60.7,100.0,56.9,Information Technology,Semester 5
+STD-1078,Software Engineering,52.8,100.0,62.8,Information Technology,Semester 5
+STD-1078,Database Systems,59.0,100.0,65.4,Information Technology,Semester 5
+STD-1078,Information Security,65.8,100.0,59.2,Information Technology,Semester 5
+STD-1079,Signals & Systems,69.8,100.0,71.3,Electronics & Comm.,Semester 5
+STD-1079,Digital Electronics,55.9,100.0,78.8,Electronics & Comm.,Semester 5
+STD-1079,Microprocessors,65.9,100.0,82.3,Electronics & Comm.,Semester 5
+STD-1079,Communication Systems,68.8,100.0,83.0,Electronics & Comm.,Semester 5
+STD-1079,VLSI Design,62.0,100.0,79.4,Electronics & Comm.,Semester 5
+STD-1080,Thermodynamics,82.1,100.0,86.3,Mechanical Eng.,Semester 3
+STD-1080,Fluid Mechanics,78.6,100.0,92.4,Mechanical Eng.,Semester 3
+STD-1080,Machine Design,75.8,100.0,83.9,Mechanical Eng.,Semester 3
+STD-1080,Heat Transfer,87.5,100.0,92.2,Mechanical Eng.,Semester 3
+STD-1080,Manufacturing Processes,91.7,100.0,87.6,Mechanical Eng.,Semester 3
+STD-1081,Structural Analysis,63.9,100.0,92.1,Civil Eng.,Semester 4
+STD-1081,Fluid Mechanics,74.8,100.0,93.6,Civil Eng.,Semester 4
+STD-1081,Geotechnical Eng.,71.6,100.0,95.0,Civil Eng.,Semester 4
+STD-1081,Surveying,61.4,100.0,90.5,Civil Eng.,Semester 4
+STD-1081,Concrete Technology,70.3,100.0,98.1,Civil Eng.,Semester 4
+STD-1082,Signals & Systems,65.9,100.0,60.5,Electronics & Comm.,Semester 6
+STD-1082,Digital Electronics,61.4,100.0,49.9,Electronics & Comm.,Semester 6
+STD-1082,Microprocessors,55.1,100.0,48.8,Electronics & Comm.,Semester 6
+STD-1082,Communication Systems,64.6,100.0,52.9,Electronics & Comm.,Semester 6
+STD-1082,VLSI Design,63.7,100.0,66.4,Electronics & Comm.,Semester 6
+STD-1083,Data Structures,51.7,100.0,66.0,Computer Science,Semester 3
+STD-1083,Algorithms,59.6,100.0,70.3,Computer Science,Semester 3
+STD-1083,Database Systems,79.6,100.0,69.4,Computer Science,Semester 3
+STD-1083,Operating Systems,71.0,100.0,68.9,Computer Science,Semester 3
+STD-1083,Computer Networks,76.3,100.0,70.3,Computer Science,Semester 3
+STD-1084,Structural Analysis,73.1,100.0,83.8,Civil Eng.,Semester 6
+STD-1084,Fluid Mechanics,70.1,100.0,78.2,Civil Eng.,Semester 6
+STD-1084,Geotechnical Eng.,61.5,100.0,76.8,Civil Eng.,Semester 6
+STD-1084,Surveying,62.9,100.0,77.6,Civil Eng.,Semester 6
+STD-1084,Concrete Technology,73.5,100.0,84.4,Civil Eng.,Semester 6
+STD-1085,Thermodynamics,35.2,100.0,79.4,Mechanical Eng.,Semester 4
+STD-1085,Fluid Mechanics,50.0,100.0,74.4,Mechanical Eng.,Semester 4
+STD-1085,Machine Design,43.6,100.0,65.8,Mechanical Eng.,Semester 4
+STD-1085,Heat Transfer,34.3,100.0,75.1,Mechanical Eng.,Semester 4
+STD-1085,Manufacturing Processes,38.1,100.0,83.7,Mechanical Eng.,Semester 4
+STD-1086,Thermodynamics,61.8,100.0,81.9,Mechanical Eng.,Semester 5
+STD-1086,Fluid Mechanics,53.9,100.0,86.8,Mechanical Eng.,Semester 5
+STD-1086,Machine Design,55.0,100.0,78.6,Mechanical Eng.,Semester 5
+STD-1086,Heat Transfer,60.2,100.0,81.5,Mechanical Eng.,Semester 5
+STD-1086,Manufacturing Processes,63.3,100.0,79.7,Mechanical Eng.,Semester 5
+STD-1087,Data Structures,63.8,100.0,80.3,Computer Science,Semester 5
+STD-1087,Algorithms,53.3,100.0,77.9,Computer Science,Semester 5
+STD-1087,Database Systems,60.2,100.0,68.9,Computer Science,Semester 5
+STD-1087,Operating Systems,58.1,100.0,74.2,Computer Science,Semester 5
+STD-1087,Computer Networks,64.1,100.0,72.0,Computer Science,Semester 5
+STD-1088,Web Technologies,45.8,100.0,58.3,Information Technology,Semester 4
+STD-1088,Cloud Computing,40.9,100.0,57.5,Information Technology,Semester 4
+STD-1088,Software Engineering,50.3,100.0,51.9,Information Technology,Semester 4
+STD-1088,Database Systems,50.3,100.0,52.3,Information Technology,Semester 4
+STD-1088,Information Security,42.4,100.0,56.2,Information Technology,Semester 4
+STD-1089,Thermodynamics,29.5,100.0,69.6,Mechanical Eng.,Semester 4
+STD-1089,Fluid Mechanics,42.4,100.0,72.8,Mechanical Eng.,Semester 4
+STD-1089,Machine Design,39.4,100.0,62.2,Mechanical Eng.,Semester 4
+STD-1089,Heat Transfer,25.5,100.0,69.3,Mechanical Eng.,Semester 4
+STD-1089,Manufacturing Processes,34.7,100.0,68.9,Mechanical Eng.,Semester 4
+STD-1090,Structural Analysis,42.1,100.0,58.8,Civil Eng.,Semester 5
+STD-1090,Fluid Mechanics,30.4,100.0,54.3,Civil Eng.,Semester 5
+STD-1090,Geotechnical Eng.,58.7,100.0,62.6,Civil Eng.,Semester 5
+STD-1090,Surveying,41.0,100.0,45.9,Civil Eng.,Semester 5
+STD-1090,Concrete Technology,48.4,100.0,50.1,Civil Eng.,Semester 5
+STD-1091,Signals & Systems,50.0,100.0,50.6,Electronics & Comm.,Semester 3
+STD-1091,Digital Electronics,54.3,100.0,54.7,Electronics & Comm.,Semester 3
+STD-1091,Microprocessors,66.1,100.0,55.7,Electronics & Comm.,Semester 3
+STD-1091,Communication Systems,58.3,100.0,59.0,Electronics & Comm.,Semester 3
+STD-1091,VLSI Design,64.4,100.0,58.5,Electronics & Comm.,Semester 3
+STD-1092,Structural Analysis,86.1,100.0,86.5,Civil Eng.,Semester 5
+STD-1092,Fluid Mechanics,85.3,100.0,84.8,Civil Eng.,Semester 5
+STD-1092,Geotechnical Eng.,92.2,100.0,78.2,Civil Eng.,Semester 5
+STD-1092,Surveying,81.2,100.0,82.4,Civil Eng.,Semester 5
+STD-1092,Concrete Technology,89.1,100.0,78.1,Civil Eng.,Semester 5
+STD-1093,Structural Analysis,38.7,100.0,95.0,Civil Eng.,Semester 3
+STD-1093,Fluid Mechanics,28.4,100.0,88.7,Civil Eng.,Semester 3
+STD-1093,Geotechnical Eng.,46.8,100.0,90.4,Civil Eng.,Semester 3
+STD-1093,Surveying,47.5,100.0,87.8,Civil Eng.,Semester 3
+STD-1093,Concrete Technology,36.3,100.0,86.2,Civil Eng.,Semester 3
+STD-1094,Web Technologies,72.7,100.0,100.0,Information Technology,Semester 5
+STD-1094,Cloud Computing,71.8,100.0,96.9,Information Technology,Semester 5
+STD-1094,Software Engineering,76.3,100.0,100.0,Information Technology,Semester 5
+STD-1094,Database Systems,72.4,100.0,100.0,Information Technology,Semester 5
+STD-1094,Information Security,69.4,100.0,96.4,Information Technology,Semester 5
+STD-1095,Structural Analysis,37.0,100.0,88.2,Civil Eng.,Semester 5
+STD-1095,Fluid Mechanics,48.0,100.0,88.4,Civil Eng.,Semester 5
+STD-1095,Geotechnical Eng.,50.4,100.0,90.2,Civil Eng.,Semester 5
+STD-1095,Surveying,46.0,100.0,86.7,Civil Eng.,Semester 5
+STD-1095,Concrete Technology,55.4,100.0,88.3,Civil Eng.,Semester 5
+STD-1096,Web Technologies,48.8,100.0,62.7,Information Technology,Semester 3
+STD-1096,Cloud Computing,56.3,100.0,59.2,Information Technology,Semester 3
+STD-1096,Software Engineering,41.5,100.0,71.2,Information Technology,Semester 3
+STD-1096,Database Systems,64.1,100.0,66.5,Information Technology,Semester 3
+STD-1096,Information Security,60.7,100.0,67.3,Information Technology,Semester 3
+STD-1097,Web Technologies,79.8,100.0,74.8,Information Technology,Semester 6
+STD-1097,Cloud Computing,88.9,100.0,72.4,Information Technology,Semester 6
+STD-1097,Software Engineering,76.5,100.0,63.9,Information Technology,Semester 6
+STD-1097,Database Systems,85.2,100.0,68.1,Information Technology,Semester 6
+STD-1097,Information Security,81.3,100.0,71.7,Information Technology,Semester 6
+STD-1098,Thermodynamics,66.7,100.0,88.4,Mechanical Eng.,Semester 4
+STD-1098,Fluid Mechanics,59.4,100.0,84.9,Mechanical Eng.,Semester 4
+STD-1098,Machine Design,67.3,100.0,87.0,Mechanical Eng.,Semester 4
+STD-1098,Heat Transfer,64.4,100.0,86.9,Mechanical Eng.,Semester 4
+STD-1098,Manufacturing Processes,68.7,100.0,87.3,Mechanical Eng.,Semester 4
+STD-1099,Thermodynamics,68.4,100.0,94.0,Mechanical Eng.,Semester 6
+STD-1099,Fluid Mechanics,71.6,100.0,86.5,Mechanical Eng.,Semester 6
+STD-1099,Machine Design,73.0,100.0,96.1,Mechanical Eng.,Semester 6
+STD-1099,Heat Transfer,71.0,100.0,98.4,Mechanical Eng.,Semester 6
+STD-1099,Manufacturing Processes,67.0,100.0,88.3,Mechanical Eng.,Semester 6
+STD-1100,Data Structures,73.3,100.0,88.8,Computer Science,Semester 3
+STD-1100,Algorithms,80.4,100.0,92.7,Computer Science,Semester 3
+STD-1100,Database Systems,83.9,100.0,86.2,Computer Science,Semester 3
+STD-1100,Operating Systems,63.3,100.0,86.0,Computer Science,Semester 3
+STD-1100,Computer Networks,79.5,100.0,94.9,Computer Science,Semester 3
+STD-1101,Structural Analysis,42.2,100.0,53.8,Civil Eng.,Semester 3
+STD-1101,Fluid Mechanics,40.2,100.0,58.9,Civil Eng.,Semester 3
+STD-1101,Geotechnical Eng.,47.0,100.0,60.0,Civil Eng.,Semester 3
+STD-1101,Surveying,41.2,100.0,55.2,Civil Eng.,Semester 3
+STD-1101,Concrete Technology,41.9,100.0,53.9,Civil Eng.,Semester 3
+STD-1102,Data Structures,65.4,100.0,77.1,Computer Science,Semester 4
+STD-1102,Algorithms,52.2,100.0,76.4,Computer Science,Semester 4
+STD-1102,Database Systems,63.8,100.0,81.6,Computer Science,Semester 4
+STD-1102,Operating Systems,72.4,100.0,73.5,Computer Science,Semester 4
+STD-1102,Computer Networks,64.6,100.0,72.8,Computer Science,Semester 4
+STD-1103,Structural Analysis,25.6,100.0,70.7,Civil Eng.,Semester 3
+STD-1103,Fluid Mechanics,28.0,100.0,72.2,Civil Eng.,Semester 3
+STD-1103,Geotechnical Eng.,18.5,100.0,80.6,Civil Eng.,Semester 3
+STD-1103,Surveying,25.9,100.0,80.0,Civil Eng.,Semester 3
+STD-1103,Concrete Technology,27.5,100.0,73.3,Civil Eng.,Semester 3
+STD-1104,Data Structures,52.6,100.0,87.5,Computer Science,Semester 4
+STD-1104,Algorithms,55.2,100.0,80.7,Computer Science,Semester 4
+STD-1104,Database Systems,49.0,100.0,87.8,Computer Science,Semester 4
+STD-1104,Operating Systems,51.3,100.0,88.9,Computer Science,Semester 4
+STD-1104,Computer Networks,33.8,100.0,90.6,Computer Science,Semester 4
+STD-1105,Thermodynamics,42.8,100.0,98.8,Mechanical Eng.,Semester 5
+STD-1105,Fluid Mechanics,40.8,100.0,92.5,Mechanical Eng.,Semester 5
+STD-1105,Machine Design,37.4,100.0,86.9,Mechanical Eng.,Semester 5
+STD-1105,Heat Transfer,39.5,100.0,93.6,Mechanical Eng.,Semester 5
+STD-1105,Manufacturing Processes,43.0,100.0,94.9,Mechanical Eng.,Semester 5
+STD-1106,Thermodynamics,42.5,100.0,85.3,Mechanical Eng.,Semester 3
+STD-1106,Fluid Mechanics,36.2,100.0,74.7,Mechanical Eng.,Semester 3
+STD-1106,Machine Design,42.2,100.0,74.9,Mechanical Eng.,Semester 3
+STD-1106,Heat Transfer,53.2,100.0,79.6,Mechanical Eng.,Semester 3
+STD-1106,Manufacturing Processes,46.5,100.0,76.4,Mechanical Eng.,Semester 3
+STD-1107,Thermodynamics,70.3,100.0,98.0,Mechanical Eng.,Semester 5
+STD-1107,Fluid Mechanics,72.3,100.0,100.0,Mechanical Eng.,Semester 5
+STD-1107,Machine Design,65.7,100.0,87.5,Mechanical Eng.,Semester 5
+STD-1107,Heat Transfer,76.8,100.0,98.9,Mechanical Eng.,Semester 5
+STD-1107,Manufacturing Processes,73.3,100.0,100.0,Mechanical Eng.,Semester 5
+STD-1108,Thermodynamics,73.5,100.0,81.5,Mechanical Eng.,Semester 3
+STD-1108,Fluid Mechanics,62.6,100.0,81.5,Mechanical Eng.,Semester 3
+STD-1108,Machine Design,79.9,100.0,85.5,Mechanical Eng.,Semester 3
+STD-1108,Heat Transfer,70.7,100.0,81.2,Mechanical Eng.,Semester 3
+STD-1108,Manufacturing Processes,65.8,100.0,87.2,Mechanical Eng.,Semester 3
+STD-1109,Signals & Systems,69.6,100.0,91.2,Electronics & Comm.,Semester 3
+STD-1109,Digital Electronics,62.1,100.0,91.9,Electronics & Comm.,Semester 3
+STD-1109,Microprocessors,54.7,100.0,91.8,Electronics & Comm.,Semester 3
+STD-1109,Communication Systems,74.1,100.0,96.6,Electronics & Comm.,Semester 3
+STD-1109,VLSI Design,63.0,100.0,94.8,Electronics & Comm.,Semester 3
+STD-1110,Thermodynamics,51.9,100.0,52.3,Mechanical Eng.,Semester 5
+STD-1110,Fluid Mechanics,55.8,100.0,43.9,Mechanical Eng.,Semester 5
+STD-1110,Machine Design,58.9,100.0,50.9,Mechanical Eng.,Semester 5
+STD-1110,Heat Transfer,39.2,100.0,44.4,Mechanical Eng.,Semester 5
+STD-1110,Manufacturing Processes,52.6,100.0,44.8,Mechanical Eng.,Semester 5
+STD-1111,Web Technologies,66.5,100.0,81.2,Information Technology,Semester 6
+STD-1111,Cloud Computing,63.5,100.0,76.4,Information Technology,Semester 6
+STD-1111,Software Engineering,67.3,100.0,74.3,Information Technology,Semester 6
+STD-1111,Database Systems,63.8,100.0,76.4,Information Technology,Semester 6
+STD-1111,Information Security,54.2,100.0,77.9,Information Technology,Semester 6
+STD-1112,Thermodynamics,31.3,100.0,47.4,Mechanical Eng.,Semester 3
+STD-1112,Fluid Mechanics,41.5,100.0,50.8,Mechanical Eng.,Semester 3
+STD-1112,Machine Design,38.0,100.0,42.9,Mechanical Eng.,Semester 3
+STD-1112,Heat Transfer,39.0,100.0,49.3,Mechanical Eng.,Semester 3
+STD-1112,Manufacturing Processes,38.4,100.0,45.4,Mechanical Eng.,Semester 3
+STD-1113,Signals & Systems,28.9,100.0,73.3,Electronics & Comm.,Semester 4
+STD-1113,Digital Electronics,30.9,100.0,74.7,Electronics & Comm.,Semester 4
+STD-1113,Microprocessors,48.9,100.0,77.2,Electronics & Comm.,Semester 4
+STD-1113,Communication Systems,39.9,100.0,71.1,Electronics & Comm.,Semester 4
+STD-1113,VLSI Design,33.8,100.0,73.6,Electronics & Comm.,Semester 4
+STD-1114,Signals & Systems,81.8,100.0,94.0,Electronics & Comm.,Semester 6
+STD-1114,Digital Electronics,74.2,100.0,100.0,Electronics & Comm.,Semester 6
+STD-1114,Microprocessors,73.2,100.0,97.9,Electronics & Comm.,Semester 6
+STD-1114,Communication Systems,69.5,100.0,100.0,Electronics & Comm.,Semester 6
+STD-1114,VLSI Design,77.9,100.0,100.0,Electronics & Comm.,Semester 6
+STD-1115,Signals & Systems,75.1,100.0,67.3,Electronics & Comm.,Semester 6
+STD-1115,Digital Electronics,75.9,100.0,58.4,Electronics & Comm.,Semester 6
+STD-1115,Microprocessors,86.2,100.0,58.4,Electronics & Comm.,Semester 6
+STD-1115,Communication Systems,78.4,100.0,59.0,Electronics & Comm.,Semester 6
+STD-1115,VLSI Design,72.6,100.0,56.3,Electronics & Comm.,Semester 6
+STD-1116,Signals & Systems,75.9,100.0,65.5,Electronics & Comm.,Semester 5
+STD-1116,Digital Electronics,75.0,100.0,63.3,Electronics & Comm.,Semester 5
+STD-1116,Microprocessors,74.8,100.0,49.8,Electronics & Comm.,Semester 5
+STD-1116,Communication Systems,76.2,100.0,62.5,Electronics & Comm.,Semester 5
+STD-1116,VLSI Design,94.3,100.0,58.9,Electronics & Comm.,Semester 5
+STD-1117,Data Structures,63.6,100.0,85.1,Computer Science,Semester 4
+STD-1117,Algorithms,64.4,100.0,82.1,Computer Science,Semester 4
+STD-1117,Database Systems,54.5,100.0,97.1,Computer Science,Semester 4
+STD-1117,Operating Systems,47.8,100.0,86.7,Computer Science,Semester 4
+STD-1117,Computer Networks,56.3,100.0,78.7,Computer Science,Semester 4
+STD-1118,Data Structures,68.0,100.0,63.4,Computer Science,Semester 4
+STD-1118,Algorithms,82.1,100.0,68.3,Computer Science,Semester 4
+STD-1118,Database Systems,75.8,100.0,65.5,Computer Science,Semester 4
+STD-1118,Operating Systems,81.5,100.0,58.3,Computer Science,Semester 4
+STD-1118,Computer Networks,68.4,100.0,69.9,Computer Science,Semester 4
+STD-1119,Web Technologies,52.7,100.0,63.4,Information Technology,Semester 5
+STD-1119,Cloud Computing,60.6,100.0,57.5,Information Technology,Semester 5
+STD-1119,Software Engineering,58.5,100.0,58.2,Information Technology,Semester 5
+STD-1119,Database Systems,46.4,100.0,55.8,Information Technology,Semester 5
+STD-1119,Information Security,43.4,100.0,53.3,Information Technology,Semester 5
+STD-1120,Data Structures,45.8,100.0,67.5,Computer Science,Semester 5
+STD-1120,Algorithms,54.5,100.0,68.8,Computer Science,Semester 5
+STD-1120,Database Systems,46.6,100.0,69.6,Computer Science,Semester 5
+STD-1120,Operating Systems,46.5,100.0,70.4,Computer Science,Semester 5
+STD-1120,Computer Networks,32.0,100.0,69.8,Computer Science,Semester 5
+STD-1121,Signals & Systems,42.7,100.0,90.5,Electronics & Comm.,Semester 4
+STD-1121,Digital Electronics,46.6,100.0,95.1,Electronics & Comm.,Semester 4
+STD-1121,Microprocessors,62.7,100.0,88.0,Electronics & Comm.,Semester 4
+STD-1121,Communication Systems,50.3,100.0,94.6,Electronics & Comm.,Semester 4
+STD-1121,VLSI Design,63.2,100.0,95.9,Electronics & Comm.,Semester 4
+STD-1122,Thermodynamics,59.1,100.0,77.4,Mechanical Eng.,Semester 3
+STD-1122,Fluid Mechanics,54.9,100.0,73.6,Mechanical Eng.,Semester 3
+STD-1122,Machine Design,59.3,100.0,76.8,Mechanical Eng.,Semester 3
+STD-1122,Heat Transfer,44.7,100.0,73.3,Mechanical Eng.,Semester 3
+STD-1122,Manufacturing Processes,66.6,100.0,67.5,Mechanical Eng.,Semester 3
+STD-1123,Thermodynamics,68.5,100.0,92.6,Mechanical Eng.,Semester 3
+STD-1123,Fluid Mechanics,64.7,100.0,90.2,Mechanical Eng.,Semester 3
+STD-1123,Machine Design,72.8,100.0,97.5,Mechanical Eng.,Semester 3
+STD-1123,Heat Transfer,67.7,100.0,86.2,Mechanical Eng.,Semester 3
+STD-1123,Manufacturing Processes,67.0,100.0,95.5,Mechanical Eng.,Semester 3
+STD-1124,Signals & Systems,47.3,100.0,88.7,Electronics & Comm.,Semester 6
+STD-1124,Digital Electronics,58.7,100.0,89.2,Electronics & Comm.,Semester 6
+STD-1124,Microprocessors,43.6,100.0,92.2,Electronics & Comm.,Semester 6
+STD-1124,Communication Systems,49.9,100.0,85.1,Electronics & Comm.,Semester 6
+STD-1124,VLSI Design,56.9,100.0,99.8,Electronics & Comm.,Semester 6
+STD-1125,Structural Analysis,40.5,100.0,65.6,Civil Eng.,Semester 4
+STD-1125,Fluid Mechanics,43.1,100.0,71.2,Civil Eng.,Semester 4
+STD-1125,Geotechnical Eng.,45.4,100.0,69.7,Civil Eng.,Semester 4
+STD-1125,Surveying,50.1,100.0,68.2,Civil Eng.,Semester 4
+STD-1125,Concrete Technology,41.5,100.0,72.9,Civil Eng.,Semester 4
+STD-1126,Signals & Systems,44.4,100.0,67.6,Electronics & Comm.,Semester 4
+STD-1126,Digital Electronics,45.1,100.0,60.6,Electronics & Comm.,Semester 4
+STD-1126,Microprocessors,40.8,100.0,68.8,Electronics & Comm.,Semester 4
+STD-1126,Communication Systems,39.7,100.0,65.9,Electronics & Comm.,Semester 4
+STD-1126,VLSI Design,39.3,100.0,67.6,Electronics & Comm.,Semester 4
+STD-1127,Data Structures,77.0,100.0,74.8,Computer Science,Semester 4
+STD-1127,Algorithms,74.7,100.0,68.4,Computer Science,Semester 4
+STD-1127,Database Systems,72.3,100.0,72.4,Computer Science,Semester 4
+STD-1127,Operating Systems,75.5,100.0,77.1,Computer Science,Semester 4
+STD-1127,Computer Networks,70.7,100.0,65.4,Computer Science,Semester 4
+STD-1128,Thermodynamics,89.8,100.0,98.4,Mechanical Eng.,Semester 6
+STD-1128,Fluid Mechanics,76.7,100.0,99.7,Mechanical Eng.,Semester 6
+STD-1128,Machine Design,72.0,100.0,100.0,Mechanical Eng.,Semester 6
+STD-1128,Heat Transfer,77.4,100.0,94.2,Mechanical Eng.,Semester 6
+STD-1128,Manufacturing Processes,80.3,100.0,100.0,Mechanical Eng.,Semester 6
+STD-1129,Signals & Systems,60.7,100.0,59.6,Electronics & Comm.,Semester 3
+STD-1129,Digital Electronics,52.8,100.0,69.9,Electronics & Comm.,Semester 3
+STD-1129,Microprocessors,50.9,100.0,65.2,Electronics & Comm.,Semester 3
+STD-1129,Communication Systems,57.1,100.0,58.4,Electronics & Comm.,Semester 3
+STD-1129,VLSI Design,66.4,100.0,67.0,Electronics & Comm.,Semester 3
+STD-1130,Thermodynamics,51.6,100.0,59.2,Mechanical Eng.,Semester 3
+STD-1130,Fluid Mechanics,34.2,100.0,57.7,Mechanical Eng.,Semester 3
+STD-1130,Machine Design,51.0,100.0,59.7,Mechanical Eng.,Semester 3
+STD-1130,Heat Transfer,40.2,100.0,57.2,Mechanical Eng.,Semester 3
+STD-1130,Manufacturing Processes,50.9,100.0,62.2,Mechanical Eng.,Semester 3
+STD-1131,Signals & Systems,92.1,100.0,70.2,Electronics & Comm.,Semester 4
+STD-1131,Digital Electronics,88.8,100.0,82.6,Electronics & Comm.,Semester 4
+STD-1131,Microprocessors,85.4,100.0,76.8,Electronics & Comm.,Semester 4
+STD-1131,Communication Systems,83.0,100.0,69.1,Electronics & Comm.,Semester 4
+STD-1131,VLSI Design,85.3,100.0,73.8,Electronics & Comm.,Semester 4
+STD-1132,Signals & Systems,66.7,100.0,96.0,Electronics & Comm.,Semester 4
+STD-1132,Digital Electronics,65.3,100.0,100.0,Electronics & Comm.,Semester 4
+STD-1132,Microprocessors,60.2,100.0,100.0,Electronics & Comm.,Semester 4
+STD-1132,Communication Systems,63.2,100.0,100.0,Electronics & Comm.,Semester 4
+STD-1132,VLSI Design,49.0,100.0,100.0,Electronics & Comm.,Semester 4
+STD-1133,Data Structures,62.9,100.0,95.3,Computer Science,Semester 5
+STD-1133,Algorithms,63.7,100.0,99.0,Computer Science,Semester 5
+STD-1133,Database Systems,75.1,100.0,86.3,Computer Science,Semester 5
+STD-1133,Operating Systems,61.8,100.0,98.8,Computer Science,Semester 5
+STD-1133,Computer Networks,70.8,100.0,84.7,Computer Science,Semester 5
+STD-1134,Signals & Systems,72.4,100.0,58.0,Electronics & Comm.,Semester 4
+STD-1134,Digital Electronics,65.3,100.0,51.5,Electronics & Comm.,Semester 4
+STD-1134,Microprocessors,58.9,100.0,52.5,Electronics & Comm.,Semester 4
+STD-1134,Communication Systems,60.3,100.0,45.7,Electronics & Comm.,Semester 4
+STD-1134,VLSI Design,64.2,100.0,41.2,Electronics & Comm.,Semester 4
+STD-1135,Thermodynamics,71.9,100.0,79.6,Mechanical Eng.,Semester 4
+STD-1135,Fluid Mechanics,85.2,100.0,71.3,Mechanical Eng.,Semester 4
+STD-1135,Machine Design,75.9,100.0,74.8,Mechanical Eng.,Semester 4
+STD-1135,Heat Transfer,64.7,100.0,71.7,Mechanical Eng.,Semester 4
+STD-1135,Manufacturing Processes,83.4,100.0,68.6,Mechanical Eng.,Semester 4
+STD-1136,Web Technologies,37.6,100.0,29.8,Information Technology,Semester 6
+STD-1136,Cloud Computing,25.4,100.0,31.5,Information Technology,Semester 6
+STD-1136,Software Engineering,41.5,100.0,25.9,Information Technology,Semester 6
+STD-1136,Database Systems,36.2,100.0,32.6,Information Technology,Semester 6
+STD-1136,Information Security,31.2,100.0,32.9,Information Technology,Semester 6
+STD-1137,Thermodynamics,79.9,100.0,53.4,Mechanical Eng.,Semester 3
+STD-1137,Fluid Mechanics,58.4,100.0,57.2,Mechanical Eng.,Semester 3
+STD-1137,Machine Design,63.4,100.0,52.3,Mechanical Eng.,Semester 3
+STD-1137,Heat Transfer,48.6,100.0,57.4,Mechanical Eng.,Semester 3
+STD-1137,Manufacturing Processes,63.7,100.0,58.8,Mechanical Eng.,Semester 3
+STD-1138,Data Structures,52.2,100.0,53.9,Computer Science,Semester 5
+STD-1138,Algorithms,49.0,100.0,60.4,Computer Science,Semester 5
+STD-1138,Database Systems,39.4,100.0,62.9,Computer Science,Semester 5
+STD-1138,Operating Systems,50.0,100.0,57.6,Computer Science,Semester 5
+STD-1138,Computer Networks,48.5,100.0,59.4,Computer Science,Semester 5
+STD-1139,Web Technologies,79.2,100.0,66.4,Information Technology,Semester 5
+STD-1139,Cloud Computing,81.6,100.0,68.5,Information Technology,Semester 5
+STD-1139,Software Engineering,78.2,100.0,68.0,Information Technology,Semester 5
+STD-1139,Database Systems,64.7,100.0,73.9,Information Technology,Semester 5
+STD-1139,Information Security,80.0,100.0,77.7,Information Technology,Semester 5
+STD-1140,Signals & Systems,74.0,100.0,43.4,Electronics & Comm.,Semester 4
+STD-1140,Digital Electronics,69.7,100.0,36.9,Electronics & Comm.,Semester 4
+STD-1140,Microprocessors,61.3,100.0,34.4,Electronics & Comm.,Semester 4
+STD-1140,Communication Systems,72.7,100.0,39.1,Electronics & Comm.,Semester 4
+STD-1140,VLSI Design,74.8,100.0,43.9,Electronics & Comm.,Semester 4
+STD-1141,Structural Analysis,62.4,100.0,79.3,Civil Eng.,Semester 6
+STD-1141,Fluid Mechanics,66.6,100.0,76.5,Civil Eng.,Semester 6
+STD-1141,Geotechnical Eng.,58.7,100.0,78.9,Civil Eng.,Semester 6
+STD-1141,Surveying,53.0,100.0,75.5,Civil Eng.,Semester 6
+STD-1141,Concrete Technology,64.1,100.0,83.6,Civil Eng.,Semester 6
+STD-1142,Web Technologies,58.3,100.0,63.5,Information Technology,Semester 4
+STD-1142,Cloud Computing,57.8,100.0,51.2,Information Technology,Semester 4
+STD-1142,Software Engineering,58.9,100.0,60.2,Information Technology,Semester 4
+STD-1142,Database Systems,69.0,100.0,62.2,Information Technology,Semester 4
+STD-1142,Information Security,66.3,100.0,58.6,Information Technology,Semester 4
+STD-1143,Web Technologies,26.9,100.0,44.5,Information Technology,Semester 6
+STD-1143,Cloud Computing,22.5,100.0,40.7,Information Technology,Semester 6
+STD-1143,Software Engineering,37.0,100.0,58.1,Information Technology,Semester 6
+STD-1143,Database Systems,27.4,100.0,49.2,Information Technology,Semester 6
+STD-1143,Information Security,23.7,100.0,45.2,Information Technology,Semester 6
+STD-1144,Signals & Systems,64.4,100.0,80.9,Electronics & Comm.,Semester 4
+STD-1144,Digital Electronics,58.0,100.0,79.7,Electronics & Comm.,Semester 4
+STD-1144,Microprocessors,69.5,100.0,73.5,Electronics & Comm.,Semester 4
+STD-1144,Communication Systems,58.0,100.0,80.9,Electronics & Comm.,Semester 4
+STD-1144,VLSI Design,56.3,100.0,84.7,Electronics & Comm.,Semester 4
+STD-1145,Structural Analysis,36.8,100.0,75.4,Civil Eng.,Semester 5
+STD-1145,Fluid Mechanics,48.8,100.0,74.9,Civil Eng.,Semester 5
+STD-1145,Geotechnical Eng.,56.4,100.0,72.3,Civil Eng.,Semester 5
+STD-1145,Surveying,49.3,100.0,86.2,Civil Eng.,Semester 5
+STD-1145,Concrete Technology,53.0,100.0,72.5,Civil Eng.,Semester 5
+STD-1146,Structural Analysis,51.4,100.0,95.5,Civil Eng.,Semester 5
+STD-1146,Fluid Mechanics,50.0,100.0,100.0,Civil Eng.,Semester 5
+STD-1146,Geotechnical Eng.,57.3,100.0,96.6,Civil Eng.,Semester 5
+STD-1146,Surveying,51.5,100.0,99.3,Civil Eng.,Semester 5
+STD-1146,Concrete Technology,58.7,100.0,100.0,Civil Eng.,Semester 5
+STD-1147,Data Structures,91.3,100.0,74.2,Computer Science,Semester 6
+STD-1147,Algorithms,95.3,100.0,67.6,Computer Science,Semester 6
+STD-1147,Database Systems,92.6,100.0,69.9,Computer Science,Semester 6
+STD-1147,Operating Systems,93.7,100.0,74.2,Computer Science,Semester 6
+STD-1147,Computer Networks,93.6,100.0,68.0,Computer Science,Semester 6
+STD-1148,Web Technologies,67.6,100.0,63.2,Information Technology,Semester 4
+STD-1148,Cloud Computing,62.4,100.0,61.9,Information Technology,Semester 4
+STD-1148,Software Engineering,52.4,100.0,63.1,Information Technology,Semester 4
+STD-1148,Database Systems,67.4,100.0,62.2,Information Technology,Semester 4
+STD-1148,Information Security,57.3,100.0,62.6,Information Technology,Semester 4
+STD-1149,Structural Analysis,93.6,100.0,92.5,Civil Eng.,Semester 4
+STD-1149,Fluid Mechanics,100.0,100.0,91.1,Civil Eng.,Semester 4
+STD-1149,Geotechnical Eng.,83.5,100.0,89.6,Civil Eng.,Semester 4
+STD-1149,Surveying,88.8,100.0,90.5,Civil Eng.,Semester 4
+STD-1149,Concrete Technology,91.7,100.0,85.5,Civil Eng.,Semester 4
+STD-1150,Data Structures,55.9,100.0,72.9,Computer Science,Semester 3
+STD-1150,Algorithms,54.4,100.0,72.8,Computer Science,Semester 3
+STD-1150,Database Systems,47.4,100.0,68.3,Computer Science,Semester 3
+STD-1150,Operating Systems,54.3,100.0,77.8,Computer Science,Semester 3
+STD-1150,Computer Networks,55.5,100.0,74.9,Computer Science,Semester 3
